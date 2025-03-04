@@ -13,7 +13,7 @@ chromadb
 sentence_transformers
 langchain_huggingface
 faiss-cpu
-langchain_chroma
+langchain-chroma
 duckdb
 pandas
 openai
